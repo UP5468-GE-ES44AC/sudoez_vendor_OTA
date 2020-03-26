@@ -1,0 +1,10 @@
+Havoc-OS v3.3 Changelog 16-03-20:
+
+• Added ADB root
+• Added double arrow for extended swipe gesture
+• Added navigation handle length customization
+• Improved QS blur
+• Improved running services fragment layout
+• Removed Screen off animations
+• Cleaned up and improved Config Center
+• Other fixes and improvements
